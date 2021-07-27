@@ -1,7 +1,6 @@
 {
-  "name": "pokemon-battle",
+  "name": "boilerplate-node-ts",
   "version": "1.0.0",
-  "description": "Simula o confronto entre dois pokemons",
   "main": "dist/index.js",
   "scripts": {
     "test": "test",
